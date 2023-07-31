@@ -2,9 +2,6 @@
 
 This board will show the animated logo on OLED display of your VORON V0 3D printer right after turning power on. Logo will stay on screen while op system is booting.
 
-<img src="./images/VoronV0BootLogoOLED.jpg" width="200"/>
-
-Video preview<BR>
 [![Video preview](https://img.youtube.com/vi/ZLXW_uBfcKs/0.jpg)](https://youtu.be/ZLXW_uBfcKs)
 
 This is a DIY project.
