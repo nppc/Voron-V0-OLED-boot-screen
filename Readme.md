@@ -2,12 +2,12 @@
 
 This board will show the animated logo on OLED display of your VORON V0 3D printer right after turning power on. Logo will stay on screen while op system is booting.
 
-![Boot logo photo](./images/VoronV0BootLogoOLED.jpg =200x)
-<video src='./images/VoronV0StartupDisplay.mp4' width=180/>
+<img src="./images/VoronV0BootLogoOLED.jpg" width="200"/>
+<video src="./images/VoronV0StartupDisplay.mp4" width="180"/>
 
 This is a DIY project.
 
-![pcb photo](./images/OLEDBootLogoBoard.jpg =100x)
+<img src="./images/OLEDBootLogoBoard.jpg" width="100">
 
 **Specification:**
 
@@ -20,7 +20,7 @@ This is a DIY project.
 
 Solder the board in parallel to the OLED display using 4 wires: GND, VCC, SCL, SDA
 
-![Boot logo photo](./images/VoronV0DisplayPCB_Install.jpg =400x)
+<img src="./images/VoronV0DisplayPCB_Install.jpg" width="400">
 
 **DIY**
 
