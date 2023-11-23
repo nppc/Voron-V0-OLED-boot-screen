@@ -18,6 +18,7 @@ This is a DIY project.
 **Installation instruction:**
 
 Solder the board in parallel to the OLED display using 4 wires: GND, VCC, SCL, SDA
+Pay attention to VCC and GND as they may be swapped on some boards.
 
 <img src="./images/VoronV0DisplayPCB_Install.jpg" width="400"/>
 
@@ -27,4 +28,4 @@ Solder the board in parallel to the OLED display using 4 wires: GND, VCC, SCL, S
 - The MCU Attiny10 can be ordered at Mouser: https://mou.sr/457LQlj
 - The firmware: [firmware hex file](firmware/firmware.hex)
 
-Or you can buy ready made board on eBay: https://www.ebay.de/itm/145217917896
+Or you can buy ready made and flashed board on eBay: https://www.ebay.de/itm/145217917896
