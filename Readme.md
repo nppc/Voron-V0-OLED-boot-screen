@@ -18,6 +18,7 @@ This is a DIY project.
 **Installation instruction:**
 
 Solder the board in parallel to the OLED display using 4 wires: GND, VCC, SCL, SDA
+
 Pay attention to VCC and GND as they may be swapped on some boards.
 
 <img src="./images/VoronV0DisplayPCB_Install.jpg" width="400"/>
